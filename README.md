@@ -92,8 +92,3 @@
 
 </div>
 
----
-
-<div align="center">
-  <sub>⚡ <i>Built with passion for network security and intelligent systems by <a href="https://github.com/EmirEvren">Emir Evren</a></i> ⚡</sub>
-</div>
