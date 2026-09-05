@@ -1,6 +1,6 @@
 <div align="center">
 
-  # ⚡ Emir Evren ⚡
+  # Emir Evren
   
   <h3>Computer Engineer</h3>
 
@@ -8,63 +8,60 @@
 
 ---
 
-### 🛡️ Öne Çıkan Proje / Featured Project
+### Featured Project: vGuard
 
 <div align="center">
   <a href="https://github.com/EmirEvren/vGuard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmirEvren&repo=vGuard&theme=tokyonight&hide_border=true&border_radius=12" alt="vGuard Spotlight" width="480" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmirEvren&repo=vGuard&theme=tokyonight&hide_border=true&border_radius=8" alt="vGuard Spotlight" />
   </a>
 </div>
 
 <br/>
 
 > **[vGuard (Virtualized Intrusion Detection & Prevention System)](https://github.com/EmirEvren/vGuard)**  
-> Sanallaştırılmış ve bulut ağ ortamları için geliştirilmiş uçtan uca **vIDS/IPS** platformu.  
-> Derin paket inceleme (DPI), kural tabanlı imza eşleme, Scikit-learn RandomForest yapay zeka anomali tespiti, bal küpü (honeypot) tuzakları ve gerçek zamanlı **SSE (Server-Sent Events) SOC Dashboard** mimarisini tek bir çatı altında sunar.
+> Sanallaştırılmış ve bulut ağ ortamları için geliştirilmiş uçtan uca vIDS/IPS platformu.  
+> Derin paket inceleme (DPI), kural tabanlı imza eşleme, Scikit-learn RandomForest yapay zeka anomali tespiti, bal küpü (honeypot) tuzakları ve gerçek zamanlı SSE (Server-Sent Events) SOC Dashboard mimarisini tek bir çatı altında sunar.
 
-* **DPI Engine:** Windows (WinDivert) ve Linux (NFQUEUE) yerel paket yakalama & gerçek zamanlı `ACCEPT / DROP / BAN` filtreleme
+* **DPI Engine:** Windows (WinDivert) ve Linux (NFQUEUE) yerel paket yakalama ve gerçek zamanlı ACCEPT / DROP / BAN filtreleme
 * **AI Destekli Koruma:** RandomForest tabanlı saldırı skorlama ve 200+ güvenlik kuralı
-* **Real-Time SOC Dashboard:** React 18 + Vite arayüzü, canlı log akışı ve otomatik IP engelleme yönetimi
+* **Real-Time SOC Dashboard:** React 18 ve Vite arayüzü, canlı log akışı ve otomatik IP engelleme yönetimi
 
 <div align="center">
-  <a href="https://github.com/EmirEvren/vGuard"><b>🚀 Projeyi İncele (GitHub)</b></a> &nbsp;•&nbsp; 
-  <a href="https://github.com/EmirEvren/vGuard#architecture"><b>📐 Mimariyi İncele</b></a> &nbsp;•&nbsp; 
-  <a href="https://github.com/EmirEvren/vGuard/blob/main/docs/RUNBOOK.md"><b>📖 Runbook Dokümantasyonu</b></a>
+  <a href="https://github.com/EmirEvren/vGuard"><b>Proje Detayları (GitHub)</b></a> &nbsp;•&nbsp; 
+  <a href="https://github.com/EmirEvren/vGuard#architecture"><b>Mimari Şeması</b></a> &nbsp;•&nbsp; 
+  <a href="https://github.com/EmirEvren/vGuard/blob/main/docs/RUNBOOK.md"><b>Runbook Dokümantasyonu</b></a>
 </div>
 
 ---
 
-### 📊 Katkı & Çalışma İstatistikleri / Contribution Stats
+### Contribution Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=EmirEvren&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" alt="Emir Evren GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com?user=EmirEvren&theme=tokyonight&hide_border=true&border_radius=12" alt="Emir Evren Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirEvren&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" width="380" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-#### 📈 Yıllık Katkı Dalgası / Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmirEvren&theme=tokyo-night&hide_border=true&area=true&border_radius=12" alt="Activity Graph" width="95%" />
+  <p align="center">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=EmirEvren&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" alt="GitHub Stats" />
+    &nbsp;
+    <img height="180" src="https://streak-stats.demolab.com?user=EmirEvren&theme=tokyonight&hide_border=true&border_radius=8" alt="Streak Stats" />
+  </p>
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirEvren&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
+  </p>
 </div>
 
 ---
 
-### 🛠️ Teknolojiler & Yetkinlikler / Tech Stack
+### Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmirEvren/EmirEvren/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmirEvren/EmirEvren/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/EmirEvren/EmirEvren/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+### Tech Stack
 
 <div align="center">
 
@@ -77,4 +74,3 @@
 | **Araçlar & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 
 </div>
-
