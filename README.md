@@ -1,13 +1,17 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EmirEvren/EmirEvren/main/assets/banner.svg" width="100%" alt="Emir Evren - Computer &amp; Network Engineer" />
-</div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/emir-evren-26855a283/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=EmirEvren&style=flat-square&label=Profile%20Views&color=0ea5e9" alt="Profile Views" />
+  # Emir Evren
+
+  <h3>Computer &amp; Network Engineer</h3>
+
+  <p>
+    <a href="https://www.linkedin.com/in/emir-evren-26855a283/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=EmirEvren&style=flat-square&label=Profile%20Views&color=0ea5e9" alt="Profile Views" />
+  </p>
+
 </div>
 
 
