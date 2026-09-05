@@ -6,11 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=EmirEvren&style=flat-square&label=Profile%20Views&color=0ea5e9" alt="Profile Views" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/demartini/demartini/master/code.gif" width="380" alt="Developer Workstation" />
-</div>
 
 ---
 
