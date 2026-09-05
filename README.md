@@ -1,9 +1,15 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=200&section=header&text=Emir%20Evren&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer&descAlignY=58&descSize=20" width="100%" alt="Header Banner" />
+</div>
 
-  # Emir Evren
-  
-  <h3>Computer Engineer</h3>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EmirEvren&style=flat-square&label=Profile%20Views&color=0ea5e9" alt="Profile Views" />
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/demartini/demartini/master/code.gif" width="380" alt="Developer Workstation" />
 </div>
 
 ---
@@ -57,4 +63,10 @@
 | **AI & Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-Deep_Learning-555?style=for-the-badge) |
 | **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
