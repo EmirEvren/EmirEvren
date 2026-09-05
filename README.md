@@ -32,20 +32,6 @@
   <a href="https://github.com/EmirEvren/vGuard/blob/main/docs/RUNBOOK.md"><b>Runbook Dokümantasyonu</b></a>
 </div>
 
----
-
-### Contribution Stats
-
-<div align="center">
-  <p align="center">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=EmirEvren&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" alt="GitHub Stats" />
-    &nbsp;
-    <img height="180" src="https://streak-stats.demolab.com?user=EmirEvren&theme=tokyonight&hide_border=true&border_radius=8" alt="Streak Stats" />
-  </p>
-  <p align="center">
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EmirEvren&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
-  </p>
-</div>
 
 ---
 
