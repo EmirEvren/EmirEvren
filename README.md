@@ -2,19 +2,7 @@
 
   # ⚡ Emir Evren ⚡
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Network+Engineer" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    📍 <b>Ankara, Turkey</b>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/EmirEvren?tab=followers"><img src="https://img.shields.io/github/followers/EmirEvren?label=Followers&style=for-the-badge&color=2563EB&logo=github" alt="Followers"/></a>
-    <a href="https://github.com/EmirEvren/vGuard"><img src="https://img.shields.io/badge/vGuard-vIDS%2FIPS-0ea5e9?style=for-the-badge&logo=shield&logoColor=white" alt="vGuard Badge"/></a>
-    <img src="https://img.shields.io/badge/GitHub-PRO-blueviolet?style=for-the-badge&logo=github" alt="GitHub Pro"/>
-  </p>
+  <h3>Computer Engineer</h3>
 
 </div>
 
