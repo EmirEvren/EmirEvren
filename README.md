@@ -3,13 +3,11 @@
   # ⚡ Emir Evren ⚡
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Cybersecurity+%26+Network+Systems+Engineer;Creator+of+vGuard+(vIDS%2FIPS);Full-Stack+Developer+(Python+%7C+C%23+%7C+React);AI+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Network+Engineer" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    📍 <b>Ankara, Turkey</b> &nbsp;|&nbsp; 
-    🛡️ <b>Cybersecurity & IDS/IPS</b> &nbsp;|&nbsp; 
-    🚀 <b>Systems & Game Development</b>
+    📍 <b>Ankara, Turkey</b>
   </p>
 
   <p align="center">
