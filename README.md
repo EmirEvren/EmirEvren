@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=200&section=header&text=Emir%20Evren&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20%26%20Network%20Engineer&descAlignY=58&descSize=20" width="100%" alt="Header Banner" />
+  <img src="assets/banner.svg" width="100%" alt="Emir Evren - Computer &amp; Network Engineer" />
 </div>
 
 <div align="center">
@@ -64,8 +64,3 @@
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=100&section=footer" width="100%" alt="Footer Wave" />
-</div>

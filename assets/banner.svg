@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%" height="180">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0" />
+      <stop offset="30%" stop-color="#0ea5e9" />
+      <stop offset="70%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.07" />
+    </pattern>
+  </defs>
+
+  <!-- Card Background -->
+  <rect width="900" height="180" rx="14" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1.5" />
+  
+  <!-- Subtle Grid Pattern -->
+  <rect width="900" height="180" rx="14" fill="url(#grid)" />
+
+  <!-- Top Accent Bar -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#accentGrad)" />
+
+  <!-- Corner Tech Accents -->
+  <path d="M 20 35 L 20 20 L 35 20" fill="none" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round" opacity="0.6" />
+  <path d="M 880 35 L 880 20 L 865 20" fill="none" stroke="#6366f1" stroke-width="2" stroke-linecap="round" opacity="0.6" />
+  <path d="M 20 145 L 20 160 L 35 160" fill="none" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round" opacity="0.6" />
+  <path d="M 880 145 L 880 160 L 865 160" fill="none" stroke="#6366f1" stroke-width="2" stroke-linecap="round" opacity="0.6" />
+
+  <!-- Name -->
+  <text x="450" y="78" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="800" fill="#f8fafc" letter-spacing="1">Emir Evren</text>
+
+  <!-- Title -->
+  <text x="450" y="118" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="url(#textGrad)" letter-spacing="4">COMPUTER &amp; NETWORK ENGINEER</text>
+
+  <!-- Glowing Accent Line -->
+  <line x1="280" y1="135" x2="620" y2="135" stroke="url(#accentGrad)" stroke-width="2" stroke-linecap="round" />
+</svg>
