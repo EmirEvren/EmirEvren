@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Emir Evren - Computer &amp; Network Engineer" />
+  <img src="https://raw.githubusercontent.com/EmirEvren/EmirEvren/main/assets/banner.svg" width="100%" alt="Emir Evren - Computer &amp; Network Engineer" />
 </div>
 
 <div align="center">
