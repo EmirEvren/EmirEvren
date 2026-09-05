@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=200&section=header&text=Emir%20Evren&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer&descAlignY=58&descSize=20" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=200&section=header&text=Emir%20Evren&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20%26%20Network%20Engineer&descAlignY=58&descSize=20" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/emir-evren-26855a283/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=EmirEvren&style=flat-square&label=Profile%20Views&color=0ea5e9" alt="Profile Views" />
 </div>
 
