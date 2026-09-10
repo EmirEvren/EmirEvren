@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
   # Emir Evren
 
@@ -65,6 +65,31 @@
   <a href="https://github.com/EmirEvren/cisco-packet-tracer-dual-subnet-routing"><b>Explore Repository</b></a> &nbsp;•&nbsp; 
   <a href="https://github.com/EmirEvren/cisco-packet-tracer-dual-subnet-routing#network-topology"><b>Topology Diagram</b></a> &nbsp;•&nbsp; 
   <a href="https://github.com/EmirEvren/cisco-packet-tracer-dual-subnet-routing/blob/main/configs/router0_config.ios"><b>Router IOS Config</b></a>
+</div>
+
+<br/>
+
+#### 3. Cisco Multi-Router Multi-Subnet Static Routing Lab
+
+<div align="center">
+  <a href="https://github.com/EmirEvren/cisco-packet-tracer-multi-router-static-routing">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=EmirEvren&repo=cisco-packet-tracer-multi-router-static-routing&theme=tokyonight&hide_border=true&border_radius=8" alt="Cisco Multi-Router Routing Lab Spotlight" />
+  </a>
+</div>
+
+<br/>
+
+> **[Cisco Multi-Router Multi-Subnet Static Routing Lab](https://github.com/EmirEvren/cisco-packet-tracer-multi-router-static-routing)**  
+> A multi-router enterprise networking lab designed and verified in Cisco Packet Tracer. Demonstrates scalable Layer 3 inter-network routing across three interconnected Cisco IOS routers (`R1`, `R2`, `R3`), spanning six Local Area Networks (LANs) and a dedicated point-to-point `/30` WAN link via static routing.
+
+* **Multi-Router Core:** Deployed a 3-router routing infrastructure linking 6 access subnets and a dedicated point-to-point WAN backbone
+* **Static Routing & Next-Hop Resolution:** Configured deterministic static routes across multi-hop transit paths with optimal gateway selection
+* **Verification & Diagnostics:** Validated full-mesh ICMP ping reachability, routing table convergence, and interface operational status
+
+<div align="center">
+  <a href="https://github.com/EmirEvren/cisco-packet-tracer-multi-router-static-routing"><b>Explore Repository</b></a> &nbsp;•&nbsp; 
+  <a href="https://github.com/EmirEvren/cisco-packet-tracer-multi-router-static-routing#network-topology"><b>Topology Diagram</b></a> &nbsp;•&nbsp; 
+  <a href="https://github.com/EmirEvren/cisco-packet-tracer-multi-router-static-routing/blob/main/configs/all_routers_config.ios"><b>Router IOS Configs</b></a>
 </div>
 
 ---
