@@ -92,6 +92,31 @@
   <a href="https://github.com/EmirEvren/cisco-packet-tracer-multi-router-static-routing/blob/main/configs/all_routers_config.ios"><b>Router IOS Configs</b></a>
 </div>
 
+<br/>
+
+#### 4. Cisco 4-City Intercity WAN Routing & Secure Management Lab
+
+<div align="center">
+  <a href="https://github.com/EmirEvren/cisco-packet-tracer-4-city-wan-routing">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=EmirEvren&repo=cisco-packet-tracer-4-city-wan-routing&theme=tokyonight&hide_border=true&border_radius=8" alt="Cisco 4-City WAN Routing Lab Spotlight" />
+  </a>
+</div>
+
+<br/>
+
+> **[Cisco 4-City Intercity WAN Routing & Secure Management Lab](https://github.com/EmirEvren/cisco-packet-tracer-4-city-wan-routing)**  
+> A multi-regional enterprise WAN laboratory designed and verified in Cisco Packet Tracer. Interconnects 4 major cities across Turkey (Ankara, Bursa, Çorum, Rize) over a central Layer 3 MPLS WAN backbone, featuring full-mesh static routing across 8 metropolitan LAN subnets and hardened device security with SSH v2 and role-based privilege levels.
+
+* **Intercity MPLS WAN Backbone:** Interconnected 4 regional border routers across a central `1.1.1.0/24` WAN backbone with plate-coded IP addressing
+* **Full-Mesh Static Routing:** Configured deterministic Layer 3 static route tables across 8 distinct district LAN subnets with zero routing protocol overhead
+* **Device Hardening & Remote Access:** Deployed 1024-bit RSA cryptokeys, SSH v2, dual SSH/Telnet transport, privilege separation (admin/user), and synchronous logging
+
+<div align="center">
+  <a href="https://github.com/EmirEvren/cisco-packet-tracer-4-city-wan-routing"><b>Explore Repository</b></a> &nbsp;•&nbsp; 
+  <a href="https://github.com/EmirEvren/cisco-packet-tracer-4-city-wan-routing#network-topology"><b>Topology Diagram</b></a> &nbsp;•&nbsp; 
+  <a href="https://github.com/EmirEvren/cisco-packet-tracer-4-city-wan-routing/blob/main/configs/all_routers_config.ios"><b>Router IOS Configs</b></a>
+</div>
+
 ---
 
 ### Contribution Snake
